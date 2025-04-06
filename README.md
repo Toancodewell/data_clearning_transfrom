@@ -29,8 +29,8 @@ The final cleaned and transformed dataset is now ready for further analysis, suc
 - Perform analysis on player statistics.
 ## Dependencies 
 The following Python libraries are required to run this project:
--pandas
--numpy
--matplotlib
+- pandas
+- numpy
+- matplotlib
 
 
