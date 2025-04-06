@@ -4,9 +4,21 @@
 
 - [Overview](#overview)
 - [Project Setup](#project-setup)
-- [Data Source](#data-source)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
+- [Data Source](# archive)
+- [Usage](#)
+- [Dependencies](# The following Python libraries are required to run this project:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+These dependencies are listed in the requirements.txt file for easy installation. )
 - [License](#license)
 
 ## Overview
