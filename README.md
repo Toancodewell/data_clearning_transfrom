@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Setup](#project-setup)
 - [Data Source](#archive)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
@@ -23,11 +22,15 @@ The `Fifa21.ipynb` notebook performs several key data preprocessing steps, inclu
    - Creating new features based on existing ones
 
 The final cleaned and transformed dataset is now ready for further analysis, such as building predictive models or exploring trends in FIFA 21 player statistics.
-
+## Data Source
+- File CSV and in foder archive
+## Usage 
+- Once the data has been cleaned and transformed using the steps in the notebook
+- Perform analysis on player statistics.
 ## Dependencies 
 The following Python libraries are required to run this project:
-pandas
-numpy
-matplotlib
+-pandas
+-numpy
+-matplotlib
 
 
