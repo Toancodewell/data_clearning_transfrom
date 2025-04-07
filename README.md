@@ -9,7 +9,7 @@
 
 ## Overview
 
-The `Fifa21.ipynb` notebook performs several key data preprocessing steps, including:
+The `Fifa21.ipynb` and `jobs.ipynb` notebook performs several key data preprocessing steps, including:
 
 1. **Data Cleaning**:
    - Handling missing values
